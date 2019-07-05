@@ -1,0 +1,133 @@
+body {
+    background-color: darkslategrey;
+    font-family: 'Montserrat', sans-serif;
+    width: 900px;
+    padding-top: 10px;
+    margin: auto
+}
+
+.SH{
+    background-color: white;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
+
+button{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 17px
+}
+
+.spring{
+    background-color: rgb(254, 240, 158);
+    text-align: center;
+    padding:50px;
+}
+ul{
+    text-align: left
+}
+
+.BGISPRING {
+    background-image: url("images/spring-background.jpg") ;
+    padding:50px;
+    width: 700px;
+    margin: auto;
+    border-radius: 50px;
+    height: 80px;
+    margin-bottom: 40px;
+    background-size: 800px 
+
+}
+
+.summer{
+    background-color: rgb(151,227,251);
+    padding:50px;
+    text-align: center
+}
+
+.BGISUMMER {
+    background-image: url("images/summer-background.jpg") ;
+    padding:50px;
+    width: 700px;
+    background-image: 80px;
+    margin: auto;
+    border-radius: 50px;
+    height: 80px;
+    margin-bottom: 40px;
+    background-size: 800px 
+}
+
+.autumn{
+    background-color: #9C2706;
+    padding:50px;
+    text-align: center;
+    color:white
+}
+
+.BGIAUTUMN {
+    background-image: url("images/autumn-background.jpg");
+    padding:50px;
+    height: 80px;
+    width: 700px;
+    margin: auto;
+    border-radius: 50px;
+    margin-bottom: 40px;
+    background-size: 800px;
+}
+
+.winter{
+    background-color: steelblue;
+    padding:50px;
+    text-align: center;
+    color:white
+}
+
+.BGIWINTER {
+    background-image: url("images/winter-background.jpg");
+    padding:50px;
+    width: 700px;
+    margin: auto;
+    border-radius: 50px;
+    height: 80px;
+    margin-bottom: 40px;
+    background-size: 800px;
+    
+}
+
+img{
+    width: 800px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 50px;
+
+}
+h1{
+    font-family: 'Paytone One', sans-serif;
+    font-size: 40px;
+    letter-spacing: 4px
+}
+
+h2{
+    font-family: 'Paytone One', sans-serif;
+    color: white;
+    font-size: 50px;
+}
+
+h3 {
+    font-family: 'Paytone One', sans-serif;
+    letter-spacing: 3.5px
+}
+
+
+a {
+    text-decoration: none;
+    color: purple;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: yellow;
+}
